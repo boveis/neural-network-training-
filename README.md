@@ -1,2 +1,2 @@
-# neural-network-training 
-make a neural network and train it with 
+Train network with cos function and change different parameters like number of layers , nuerons in network , number of points for training , number of cycle in 
+Train with MNIST dataset and test our network at the end 
